@@ -1,4 +1,4 @@
-**hey, i'm taikutsunan, a wannabe game dev.**
+**hey, i'm taiku, a wannabe game dev.**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=taikutsunan.taikutsunan)
 ## where can i hit you up
