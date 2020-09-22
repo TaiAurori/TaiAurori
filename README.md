@@ -1,5 +1,16 @@
-**hey, i'm taiku, a wannabe game dev.**
+**hey, i'm taiku, an amateur programmer.**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=taikutsunan.taikutsunan)
-## where can i hit you up
-my keybase account is `taiku` if you wanna chat ([click to go to keybase profile](https://keybase.io/taiku))
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=taikutsunan.taikutsunan)-->
+## languages
+- Golang
+- Python
+- Javascript/NodeJS
+- Lua
+- Crystal
+
+oh, and english too
+
+## contacts
+- discord: `Taikutsunan#6781`
+- twitter: @taiku_tsuna
+- website: [taiku.endl.site](taiku.endl.site)
