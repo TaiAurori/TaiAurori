@@ -2,7 +2,7 @@
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=taikutsunan.taikutsunan)-->
 ## languages
-- Golang
+- Golang (main language)
 - Python
 - Javascript/NodeJS
 - Lua
