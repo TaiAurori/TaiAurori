@@ -1,4 +1,4 @@
-**hey, i'm taiku, an amateur programmer.**
+**hey, i'm tai, an amateur programmer.**
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=taikutsunan.taikutsunan)-->
 ## languages
@@ -11,6 +11,5 @@
 oh, and english too
 
 ## contacts
-- discord: `Taikutsunan#6781`
-- twitter: @taiku_tsuna
+- discord: `TaiAurori#6781`
 - website: [taiku.endl.site](taiku.endl.site)
