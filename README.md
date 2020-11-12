@@ -1,5 +1,5 @@
 # README, or don't...
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=taikutsunan.taikutsunan)-->
+![](https://komarev.com/ghpvc/?username=TaiAurori)
 ## languages
 - Golang (main language)
 - Python
