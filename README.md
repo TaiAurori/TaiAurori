@@ -1,5 +1,4 @@
-**hey, i'm tai, an amateur programmer.**
-
+# README, or don't...
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=taikutsunan.taikutsunan)-->
 ## languages
 - Golang (main language)
