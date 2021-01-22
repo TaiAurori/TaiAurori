@@ -6,4 +6,4 @@ find my programming lannguages and fun stuff i do on my site
 ## contacts
 - discord: `TaiAurori#6781`
 - [discord SERVER](https://discord.gg/eyrY79Q86j)
-- website: [taiku.endl.site](taiku.endl.site)
+- website: [taiku.endl.site](https://taiku.endl.site)
