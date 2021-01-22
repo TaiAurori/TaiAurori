@@ -1,13 +1,7 @@
 # README, or don't...
 ![](https://komarev.com/ghpvc/?username=TaiAurori)
-## languages
-- Golang (main language)
-- Python
-- Javascript/NodeJS
-- Lua
-- Crystal
 
-oh, and english too
+find my programming lannguages and fun stuff i do on my site
 
 ## contacts
 - discord: `TaiAurori#6781`
