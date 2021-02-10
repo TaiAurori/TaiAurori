@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=html5&color=E34F26&message=HTML"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&logo=javascript&logoColor=000000&color=f0db4f&message=JAVASCRIPT"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=css3&label=&color=264de4&message=CSS"/>
-  <img src="https://img.shields.io/static/v1?label=&message=golang&logo=go&logoColor=FFFFFF&color=29BEB0&style=for-the-badge"/><br>
+  <img src="https://img.shields.io/static/v1?label=&message=golang&logo=go&logoColor=FFFFFF&color=29BEB0&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=crystal&logo=crystal&logoColor=FFFFFF&color=000000&style=for-the-badge"/><br>
   <img src="https://img.shields.io/static/v1?label=&logo=rust&message=rust&color=B7410E&style=for-the-badge"/>
   <img src="https://img.shields.io/static/v1?label=&logo=lua&message=lua&color=000080&style=for-the-badge"/>
   <img src="https://img.shields.io/static/v1?label=&logo=python&logoColor=ffffff&message=python&color=306998&style=for-the-badge"/>
